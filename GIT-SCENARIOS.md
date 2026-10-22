@@ -164,3 +164,6 @@ Changes on one branch never appear on another by themselves. You have to bring t
 | Am I about to run something destructive (`reset --hard`, `clean -fd`, `restore`)? | Run `git status` first, and use the dry run (`git clean -n`) |
 | Did I break something locally? | `git reflog` almost always has the way back |
 | Not sure what is going on? | `git status`, `git log --oneline --graph --all`, `git reflog` |
+
+
+## 11. Eme eme lang na new part here
